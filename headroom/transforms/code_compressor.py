@@ -17,7 +17,9 @@ Supported Languages (Tier 1):
 
 Supported Languages (Tier 2):
 - Go, Rust, Java, C, C++, C#, PHP
+
 - Elixir (macro-call dispatch; see LangConfig.call_node_type)
+
 - Bash (validated and preserved losslessly)
 
 Compression Strategy:
